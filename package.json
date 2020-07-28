@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dplayer": "^1.22.2",
+    "dplayer": "^1.26.2",
     "vue-github-badge": "1.0.1"
   }
 }
